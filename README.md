@@ -3,6 +3,8 @@
 > **High-speed code locator & surgical in-place editor for AI Coding Agents.**  
 > Saves **90–95% of context tokens** and cuts latency by eliminating full-file dumps.
 
+**English** | [Tiếng Việt](README.vi.md)
+
 [![Tests](https://github.com/hungbui-ai/ctrlf/actions/workflows/test.yml/badge.svg)](https://github.com/hungbui-ai/ctrlf/actions/workflows/test.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
