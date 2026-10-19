@@ -207,7 +207,7 @@ If `ctrlf` saved you tokens, time, or money — consider buying the author a cof
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-pink?logo=github-sponsors&style=for-the-badge)](https://github.com/sponsors/hungbui-ai)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20Me%20a%20Coffee-FF5E5B?logo=ko-fi&style=for-the-badge)](https://ko-fi.com/hungbuiai)
 
-**Vietnam 🇻🇳 (Chuyển khoản nội địa — VietQR / MoMo):**
+**Vietnam 🇻🇳 (Chuyển khoản nội địa — VietQR):**
 
-> Vào repo → xem file [DONATE.md](DONATE.md) để lấy QR code chuyển khoản nhanh.
+> Xem file [DONATE.md](DONATE.md) để quét mã QR chuyển khoản nhanh Techcombank.
 

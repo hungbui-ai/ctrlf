@@ -172,3 +172,13 @@ Before inspecting or modifying existing code, you MUST obey these rules:
 ## 📄 Bản quyền (License)
 
 Phát hành dưới giấy phép [MIT License](LICENSE). Bản quyền (c) 2026 hungbui-ai.
+
+---
+
+## ☕ Ủng hộ tác giả (Donate)
+
+Nếu **ctrlf** giúp bạn tiết kiệm token và chi phí API, mời tác giả một ly cà phê nhé!
+
+* **Quốc tế:** [![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20Me%20a%20Coffee-FF5E5B?logo=ko-fi)](https://ko-fi.com/hungbuiai) hoặc [GitHub Sponsors](https://github.com/sponsors/hungbui-ai)
+* **Việt Nam (Techcombank VietQR):** Xem mã QR và thông tin chuyển khoản tại [DONATE.md](DONATE.md)
+

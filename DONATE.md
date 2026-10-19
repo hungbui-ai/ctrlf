@@ -1,6 +1,6 @@
 # ☕ Ủng hộ tác giả (Donate)
 
-Cảm ơn bạn đã dùng **ctrlf**! Nếu nó giúp bạn tiết kiệm token, tiền API hoặc chỉ đơn giản là tiết kiệm thời gian — mời bạn ủng hộ tác giả một ly cà phê ☕
+Cảm ơn bạn đã dùng **ctrlf**! Nếu công cụ này giúp bạn tiết kiệm token, tiền API hoặc thời gian làm việc — mời bạn ủng hộ tác giả một ly cà phê ☕
 
 ---
 
@@ -9,46 +9,27 @@ Cảm ơn bạn đã dùng **ctrlf**! Nếu nó giúp bạn tiết kiệm token,
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-pink?logo=github-sponsors&style=for-the-badge)](https://github.com/sponsors/hungbui-ai)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20Me%20a%20Coffee-FF5E5B?logo=ko-fi&style=for-the-badge)](https://ko-fi.com/hungbuiai)
 
-Thanh toán qua Visa/Mastercard hoặc PayPal. Không cần tài khoản đặc biệt.
+Hỗ trợ thanh toán qua thẻ quốc tế (Visa/Mastercard) hoặc PayPal trực tiếp qua [Ko-fi](https://ko-fi.com/hungbuiai).
 
 ---
 
 ## 🇻🇳 Việt Nam — Chuyển khoản nội địa (VietQR)
 
-> **Quét mã QR bên dưới hoặc chuyển khoản thủ công:**
+Quét mã QR bằng ứng dụng ngân hàng bất kỳ để chuyển khoản nhanh:
 
-<!-- 
-  HƯỚNG DẪN TÁC GIẢ:
-  1. Vào https://vietqr.io/
-  2. Chọn ngân hàng + nhập số tài khoản + tên + số tiền gợi ý
-  3. Tải ảnh QR về, đặt vào assets/vietqr.png
-  4. Xóa comment này và bỏ comment phần <img> bên dưới
--->
-
-<!--
 <p align="center">
-  <img src="assets/vietqr.png" alt="VietQR Donate" width="280" />
+  <img src="assets/vietqr.png" alt="Techcombank VietQR" width="300" />
 </p>
--->
 
-**Thông tin chuyển khoản:**
+**Thông tin chuyển khoản thủ công:**
 
 | Trường | Thông tin |
 |---|---|
-| Ngân hàng | *(Bạn điền tên ngân hàng)* |
-| Số tài khoản | *(Bạn điền số tài khoản)* |
-| Tên tài khoản | *(Bạn điền tên)* |
-| Nội dung CK | `Ung ho ctrlf` |
-
-> 💡 **Cách tạo QR VietQR nhanh:** vào [vietqr.io](https://vietqr.io/) → chọn ngân hàng → nhập số TK → tải ảnh QR → thay vào `assets/vietqr.png`
+| **Ngân hàng** | **Techcombank (TCB)** |
+| **Số tài khoản** | `530999999995` |
+| **Chủ tài khoản** | **BUI GIA HUNG** |
+| **Nội dung CK** | `Ung ho ctrlf` |
 
 ---
 
-## 💌 MoMo
-
-Gửi tiền qua MoMo bằng số điện thoại:  
-> *(Bạn điền số điện thoại MoMo)*
-
----
-
-*Mọi khoản ủng hộ dù nhỏ đều có ý nghĩa rất lớn và giúp tác giả có thêm động lực phát triển dự án. Cảm ơn bạn! 🙏*
+*Mọi khoản ủng hộ dù nhỏ đều là nguồn động lực rất lớn để tác giả tiếp tục duy trì và nâng cấp dự án. Cảm ơn bạn! 🙏*
