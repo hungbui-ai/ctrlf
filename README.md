@@ -7,6 +7,7 @@
 
 [![Tests](https://github.com/hungbui-ai/ctrlf/actions/workflows/test.yml/badge.svg)](https://github.com/hungbui-ai/ctrlf/actions/workflows/test.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![MCP Ready](https://img.shields.io/badge/Protocol-MCP-orange.svg)](https://modelcontextprotocol.io)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github-sponsors)](https://github.com/sponsors/hungbui-ai)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?logo=ko-fi)](https://ko-fi.com/hungbuiai)
