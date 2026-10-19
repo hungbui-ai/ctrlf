@@ -8,6 +8,8 @@
 [![Tests](https://github.com/hungbui-ai/ctrlf/actions/workflows/test.yml/badge.svg)](https://github.com/hungbui-ai/ctrlf/actions/workflows/test.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MCP Ready](https://img.shields.io/badge/Protocol-MCP-orange.svg)](https://modelcontextprotocol.io)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github-sponsors)](https://github.com/sponsors/hungbui-ai)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?logo=ko-fi)](https://ko-fi.com/hungbuiai)
 
 <p align="center">
   <img src="assets/demo.gif" alt="ctrlf Demo" width="95%" />
@@ -193,3 +195,19 @@ pytest tests/
 ## 📄 License
 
 Distributed under the [MIT License](LICENSE). Copyright (c) 2026 hungbui-ai.
+
+---
+
+## ☕ Support / Donate
+
+If `ctrlf` saved you tokens, time, or money — consider buying the author a coffee!
+
+**International (GitHub Sponsors / Ko-fi):**
+
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-pink?logo=github-sponsors&style=for-the-badge)](https://github.com/sponsors/hungbui-ai)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20Me%20a%20Coffee-FF5E5B?logo=ko-fi&style=for-the-badge)](https://ko-fi.com/hungbuiai)
+
+**Vietnam 🇻🇳 (Chuyển khoản nội địa — VietQR / MoMo):**
+
+> Vào repo → xem file [DONATE.md](DONATE.md) để lấy QR code chuyển khoản nhanh.
+
