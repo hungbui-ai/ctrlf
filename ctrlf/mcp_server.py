@@ -4,11 +4,16 @@ FastMCP Server implementation for ctrlf.
 
 import sys
 from typing import Optional
-from mcp.server.fastmcp import FastMCP
+
+try:
+    from mcp.server.mcpserver import MCPServer
+    mcp = MCPServer("ctrlf")
+except (ImportError, ModuleNotFoundError):
+    from mcp.server.fastmcp import FastMCP
+    mcp = FastMCP("ctrlf")
+
 from .engine import search_code, peek_code, replace_code
 from .security import SecurityError
-
-mcp = FastMCP("ctrlf")
 
 @mcp.tool()
 def ctrlf_find(
